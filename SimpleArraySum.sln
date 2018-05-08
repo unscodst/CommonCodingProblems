@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postfix", "Postfix\Postfix.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UndoAction", "UndoAction\UndoAction.csproj", "{335466D6-C716-496B-BA88-AF1C8AD63680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.List", "Queue.List\Queue.List.csproj", "{037B7A4D-6137-4F8F-9997-D5310BC78E9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{335466D6-C716-496B-BA88-AF1C8AD63680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335466D6-C716-496B-BA88-AF1C8AD63680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335466D6-C716-496B-BA88-AF1C8AD63680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037B7A4D-6137-4F8F-9997-D5310BC78E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037B7A4D-6137-4F8F-9997-D5310BC78E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037B7A4D-6137-4F8F-9997-D5310BC78E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037B7A4D-6137-4F8F-9997-D5310BC78E9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
