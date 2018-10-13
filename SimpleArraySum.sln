@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UndoAction", "UndoAction\Un
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.List", "Queue.List\Queue.List.csproj", "{037B7A4D-6137-4F8F-9997-D5310BC78E9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumbers", "OddNumbers\OddNumbers.csproj", "{72ED48CE-1624-49AC-BEA3-6AED7129FA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutSticks", "CutSticks\CutSticks.csproj", "{19CC92B0-FC8D-428D-BA06-E14BE146D102}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{037B7A4D-6137-4F8F-9997-D5310BC78E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{037B7A4D-6137-4F8F-9997-D5310BC78E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{037B7A4D-6137-4F8F-9997-D5310BC78E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72ED48CE-1624-49AC-BEA3-6AED7129FA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ED48CE-1624-49AC-BEA3-6AED7129FA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ED48CE-1624-49AC-BEA3-6AED7129FA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ED48CE-1624-49AC-BEA3-6AED7129FA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CC92B0-FC8D-428D-BA06-E14BE146D102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CC92B0-FC8D-428D-BA06-E14BE146D102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CC92B0-FC8D-428D-BA06-E14BE146D102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CC92B0-FC8D-428D-BA06-E14BE146D102}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
